@@ -37,7 +37,7 @@ public class TreasureHuntDriver implements Directions
         World.setBeeperColor(Color.black);
         World.setStreetColor(Color.gray);
         World.setNeutroniumColor(Color.black);
-        World.setDelay(10);  
+        World.setDelay(5);  
         World.setVisible(true);
     }
 }
